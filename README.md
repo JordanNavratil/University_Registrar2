@@ -2,7 +2,7 @@ University Registrar App
 
 Epicodus class exercise 8/25/2015
 
-By Adam Won, Annie Hoogendoorn
+By Adam Won, Annie Hoogendoorn, Jordan Navratil and Jenna Navratil
 
 Description
 
@@ -21,7 +21,7 @@ PHP, PHPUnit, MySQL, Silex and Twig
 
 Legal
 
-Copyright (c) 2015 Adam Won, Annie Hoogendoorn
+Copyright (c) 2015 Adam Won, Annie Hoogendoorn, Jordan Navratil and Jenna Navratil
 
 This software is licensed under the MIT license.
 
